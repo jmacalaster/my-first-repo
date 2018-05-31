@@ -44,7 +44,7 @@ You must give a full effort on every group and individual project.
 -----------------------------------------
 
 
-[Homework Submission](http://bootcampspot-v2.com)
+[Homework Submission](https://bootcampspot-v2.com)
 
 
 Live Office Hours: 45 minutes before class and 30 minutes after class
@@ -53,7 +53,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 -----------------------------------------
 ## Technical Curriculum by Week
 
-Please see bootcampspot-v2.com
+Please see [bootcampspot-v2.com](https://bootcampspot-v2.com)
 
 ##### The material covered in this syllabus is subject to change. Our academic team adjusts to the market rapidly.
 
