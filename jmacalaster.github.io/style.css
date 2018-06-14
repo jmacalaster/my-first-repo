@@ -1,0 +1,27 @@
+body {
+    background-color: powderblue
+}
+
+h1 {
+    color:black;
+    text-align: center
+}
+p {
+    color: black;
+}
+
+#about {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: 3px;
+    
+}
+
+#red {
+    color: red;
+}
+
+#green {
+    color: green;
+}
